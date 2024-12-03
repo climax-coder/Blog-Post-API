@@ -26,7 +26,7 @@ Ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git https://github.com/climax-coder/Blog-Post-API.git
+git clone https://github.com/climax-coder/Blog-Post-API.git
 ```
 
 ### Step 2: Install Dependencies
